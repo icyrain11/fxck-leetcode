@@ -1,4 +1,4 @@
-package org.icyrain11.leetcode.linkedlist;
+package org.icyrain11.leetcode.listnode;
 
 /**
  * @author icyrain11

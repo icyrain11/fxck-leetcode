@@ -2,10 +2,7 @@ package org.icyrain11.leetcode;
 
 import org.icyrain11.leetcode.listnode.ListNode;
 
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.PriorityQueue;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @author icyrain11
@@ -16,5 +13,24 @@ public class Main {
     public static void main(String[] args) {
 
     }
+
+
+    public List<List<Integer>> threeSum(int[] nums) {
+
+    }
+
+    public List<List<Integer>> nSumTarget(int i, int n, int[] nums, int target) {
+        if (n < nums.length) {
+            return null;
+        }
+
+
+
+    }
+
+    public List<List<Integer>> twoSumTarget(int i, int n, int[] nums, int target) {
+
+    }
+
 
 }
